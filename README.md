@@ -30,14 +30,6 @@
 
 ---
 
-## 📷 Screenshots
-
-| Main Screen (Compose) | External Display (XML) |
-|-----------------------|------------------------|
-| ![main](docs/screenshot_main.png) | ![presentation](docs/screenshot_presentation.png) |
-
----
-
 ## 🛠️ How to Run
 
 1. **Connect an external display** (HDMI / USB-C)
